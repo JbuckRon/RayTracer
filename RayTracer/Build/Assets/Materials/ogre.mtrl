@@ -1,0 +1,10 @@
+{
+	"program": "Shaders/lit/texture_normal.prog",
+	"textures": [ "Textures/ogre_diffuse.bmp", "Textures/ogre_normal.bmp" ],
+	"color": [
+		1,
+		1,
+		1
+	],
+	"shininess": 100
+}

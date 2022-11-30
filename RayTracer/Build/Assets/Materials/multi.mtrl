@@ -1,0 +1,15 @@
+{
+	"program": "shaders/texture_phong.prog",
+	"textures": [
+		"textures/crate.bmp",
+		"textures/crate_specular.bmp"
+	],
+	"uv_tiling": [1, 1],
+	"uv_offset": [0, 0],
+	"color": [
+		1,
+		1,
+		1
+	],
+	"shininess": 100
+}
