@@ -9,7 +9,7 @@ class Renderer
 {
 public:
 	Renderer() = default;
-	void Render(Canvas& canvas, Scene& scene, Camera& camera);
+	void Render(Canvas& canvas, Scene& scene, Camera& camera, int samples = 5);
 
 	bool Initialize();
 	void Shutdown();
